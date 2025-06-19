@@ -1,4 +1,4 @@
-# 🧪 QA Portofolio Sasqiana 
+# 🧪 QA Portofolio - Sasqiana 
 
 Ini adalah portofolio saya sebagai QA Manual, berisi simulasi pengujian dari dua sumber aplikasi:
 
