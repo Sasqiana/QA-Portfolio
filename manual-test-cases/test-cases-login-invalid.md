@@ -4,13 +4,11 @@
 User berada di halaman login
 
 **Steps:**
-1. Kosongkan kolom username
-2. Kosongkan kolom password
-3. Klik tombol Login atau Enter
+1. Biarkan usernmae dan password kosong
+2. Klik tombol Login atau Enter
 
 **Expected Result:**
-Tidak berhasil login dan sistem menampilkan wording berwarna merah "Epic sadface: Username is required".
-
+Sistem menolak login, menampilkan wording dan tetap di halaman login 
 **Actual Result:**
 PASSED, as expected. Sistem menampilkan wording dan tidak berhasil login.
 
