@@ -1,4 +1,4 @@
-## SD-LG-002: Login Gagal - Kosongkan Username dan Password
+## SD-LG-002: Login dengan Kredensial Invalid - Kosongkan Username dan Password
 
 **Pre-condition:**
 User berada di halaman login
@@ -18,4 +18,4 @@ PASSED, as expected. Sistem menampilkan wording dan tidak berhasil login.
 User tetap berada di halaman login
 
 **Documentation:**
-![Login Failed]()
+![Login Failed](../documentations/)
