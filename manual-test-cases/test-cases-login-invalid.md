@@ -1,4 +1,4 @@
-## SD-LG-002: Login dengan Kredensial Invalid - Kosongkan Username dan Password
+## SD-LG-002: Login dengan Kredensial Invalid
 
 **Pre-condition:**
 User berada di halaman login
