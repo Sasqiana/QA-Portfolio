@@ -1,6 +1,6 @@
 # 🧪 QA Portfolio - Sasqiana 
 
-Ini adalah portfolio saya sebagai QA Manual, berisi simulasi pengujian dari dua sumber aplikasi:
+Portfolio ini berisi simulasi pengujian dari dua sumber aplikasi:
 
 - ✅ **[SauceDemo](https://www.saucedemo.com/)** – untuk manual testing, bug report, dan Jira simulation
 - ✅ **[DummyJSON API](https://dummyjson.com/)** – untuk API testing (POST, GET, PUT, DELETE)
