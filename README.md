@@ -5,7 +5,7 @@ Portfolio ini berisi simulasi pengujian dari dua sumber aplikasi:
 - ✅ **[SauceDemo](https://www.saucedemo.com/)** – untuk manual testing, bug report, dan Jira simulation
 - ✅ **[DummyJSON API](https://dummyjson.com/)** – untuk API testing (POST, GET, PUT, DELETE)
 
-portfolio ini dirancang untuk menampilkan keterampilan dasar saya sebagai QA Manual, termasuk:
+Portfolio ini dirancang untuk menampilkan keterampilan dasar saya sebagai QA Manual, termasuk:
 - Menulis test case manual dan mendokumentasikannya di Qase.io
 - Menjalankan test case dan mencatat hasilnya
 - Menganalisis dan melaporkan bug langsung di Jira
