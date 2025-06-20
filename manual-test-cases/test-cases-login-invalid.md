@@ -1,4 +1,4 @@
-## SD-LG-002: Login dengan Kredensial Invalid
+# SD-LG-002: Login dengan Kredensial Invalid
 
 **Pre-condition:**
 User berada di halaman login
@@ -9,6 +9,7 @@ User berada di halaman login
 
 **Expected Result:**
 Sistem menolak login, menampilkan wording dan tetap di halaman login 
+
 **Actual Result:**
 PASSED, as expected. Sistem menampilkan wording dan tidak berhasil login.
 
