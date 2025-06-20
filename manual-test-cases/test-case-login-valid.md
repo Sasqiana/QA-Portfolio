@@ -18,4 +18,8 @@ PASSED, as expected. User berhasil masuk ke halaman produk
 User berada di halaman  produk dalam keadaan login
 
 **Documentation:**
-![Login Success](QA-Portofolio/screenshots/login-success.png)
+
+| Login Data Valid | Login Success |
+|------------------|---------------|
+| ![Login data valid](../documentations/login-data-valid.png) | ![Login Success](../documentations/login-success.png) |
+
