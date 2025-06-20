@@ -9,7 +9,7 @@ User berada di halaman login
 3. Klik tombol Login atau Enter
 
 **Expected Result:**
-User masuk ke halaman produk dan menampilkan defect UI yaitu wording produk tidak sesuai
+User berhasil masuk dan berada di halaman produk
 
 **Actual Result:**
 PASSED, as expected. User berhasil masuk ke halaman produk dan terdapat defect UI
