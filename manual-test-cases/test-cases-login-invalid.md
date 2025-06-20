@@ -18,4 +18,7 @@ PASSED, as expected. Sistem menampilkan wording dan tidak berhasil login.
 User tetap berada di halaman login
 
 **Documentation:**
-![Login Failed](../documentations/)
+| Login Data Valid | 
+|------------------|
+|![Login Failed](../documentations/login-failed.png)|
+
