@@ -4,7 +4,7 @@
 User berada di halaman login
 
 **Steps:**
-1. Biarkan usernmae dan password kosong
+1. Biarkan username dan password kosong
 2. Klik tombol Login atau Enter
 
 **Expected Result:**
