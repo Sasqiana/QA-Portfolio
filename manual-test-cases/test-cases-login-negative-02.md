@@ -1,6 +1,6 @@
 # TC-LG-004: Login Locked Out User
 
-**Pre-condition:** User berada di laman login 
+**Pre-condition:** User berada di halaman login 
 
 **Description:** User terdaftar tidak bisa login karna terkunci serta menampilkan wording "Epic sadface: Sorry, this user has been locked out."
 
@@ -9,7 +9,11 @@
 2. Input password: secret_sauce
 3. Klik tombol Login atau Enter
 
-**Expected Result:** User tetap berada di laman login serta sistem menmapilkan wording yang sesuai
+**Expected Result:** User tetap berada di halaman login serta sistem menmapilkan wording yang sesuai
 
 **Actual Result:** PASSES, as expected. Sistem tidak mengizinkan user login karna terkunci
 
+**Post Condition:**
+User tetap berada di halaman login
+
+**Attachment:**
