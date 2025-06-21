@@ -16,7 +16,7 @@ PASSED, as expected. Sistem menampilkan wording dan tidak berhasil login.
 **Post Condition:**
 User tetap berada di halaman login
 
-**Documentation:**
+**Attachment:**
 | Login Data Invalid | 
 |------------------|
 |![Login Failed](../documentations/login-failed.png)|
