@@ -1,4 +1,4 @@
-# SD-LG-003: Login dengan Kredensial Invalid
+# TC-LG-003: Login dengan Kredensial Invalid
 
 **Pre-condition:**
 User berada di halaman login
