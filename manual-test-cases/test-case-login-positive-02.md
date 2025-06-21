@@ -1,4 +1,4 @@
-# SD-LG-002: Login dengan Kredensial Valid
+# TC-LG-002: Login dengan Kredensial Valid
 
 **Pre-condition:**
 User berada di halaman login
