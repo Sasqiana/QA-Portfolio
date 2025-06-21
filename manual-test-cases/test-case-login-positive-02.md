@@ -1,4 +1,4 @@
-# SD-LG-002: Login dengan Kredensial Valid
+# TC-LG-002: Login dengan Kredensial Valid
 
 **Pre-condition:**
 User berada di halaman login
@@ -17,7 +17,7 @@ PASSED, as expected. User berhasil masuk ke halaman produk dan terdapat defect U
 **Post Condition:**
 User berada di halaman  produk dalam keadaan login
 
-**Documentation:**
+**Attachment:**
 
 | Login Data Valid | Login Success |
 |------------------|---------------|

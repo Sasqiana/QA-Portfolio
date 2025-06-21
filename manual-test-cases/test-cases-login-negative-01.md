@@ -1,10 +1,10 @@
-# SD-LG-003: Login dengan Kredensial Invalid
+# TC-LG-003: Login dengan Kredensial Invalid
 
 **Pre-condition:**
 User berada di halaman login
 
 **Steps:**
-1. Biarkan usernmae dan password kosong
+1. Biarkan username dan password kosong
 2. Klik tombol Login atau Enter
 
 **Expected Result:**
@@ -16,7 +16,7 @@ PASSED, as expected. Sistem menampilkan wording dan tidak berhasil login.
 **Post Condition:**
 User tetap berada di halaman login
 
-**Documentation:**
+**Attachment:**
 | Login Data Invalid | 
 |------------------|
 |![Login Failed](../documentations/login-failed.png)|
