@@ -19,5 +19,5 @@ User tetap berada di halaman login
 **Attachment:**
 | Login Data Invalid | 
 |------------------|
-|![Login Failed](../documentations/login-failed.png)|
+|![Login Failed](../documentations/TC-LG-003.png)|
 
