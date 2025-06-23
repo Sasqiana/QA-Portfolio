@@ -1,4 +1,4 @@
-# BG-FC-002: [BUG] Failed to Remove Item From Cart
+# BG-FC-002: [BUG] "Remove" Button Not Working on Products Page (Cart Not Updated)
 
 **Severity:** Major
 
@@ -7,11 +7,11 @@
 **Steps to Reproduce:**
 1. Login menggunakan username: problem_user dan password: secret_sauce
 2. Berhasil masuk ke halaman produk
-3. Pilih salah satu atau beberapa item untuk ditambahkan ke cart
-4. Klik "Remove" pada item yang ingin dihapus
+3. Tambahkan satu atau beberapa item ke cart
+4. Klik "Remove" pada item yang ingin dihapus 
    
-**Expected Result:** Berhasil menghapus produk yang dipilih dari cart dan jumlah item pada cart berkurang
+**Expected Result:** Produk dihapus dari cart dan ikon jumlah item di cart (pojok kanan atas) berkurang sesuai jumlah yang dihapus.
 
-**Actual Result:** Tombol "Remove" tidak ada respon, gagal menghapus produk dan jumlah item pada cart tidak berkurang
+**Actual Result:** Tombol "Remove" tidak memberikan respon. Produk tidak terhapus dari cart dan jumlah item tetap.
 
 **Attachment:**
