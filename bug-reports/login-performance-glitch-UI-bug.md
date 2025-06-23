@@ -17,4 +17,4 @@
 **Attachment:**
 | Login Data Valid | UI Defect |
 |------------------|------------------|
-|![Login valid](../documentations/login-data-valid-02.png)|![Login valid](../documentations/login-success-02.png)|
+|![Login valid](../documentations/TC-LG-002-Data.png)|![Login valid](../documentations/TC-LG-002-Success.png)|
