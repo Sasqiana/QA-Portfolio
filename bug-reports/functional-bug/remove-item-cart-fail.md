@@ -1,4 +1,4 @@
-# BG-FC-002: [BUG] "Remove" Button Not Working on Products Page (Cart Not Updated)
+# BG-FC-001: [BUG] "Remove" Button Not Working on Products Page (Cart Not Updated)
 
 **Severity:** Major
 
