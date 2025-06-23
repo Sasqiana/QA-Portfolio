@@ -1,4 +1,4 @@
-# BG-LG-001: [BUG] Login Performance UI
+# BG-UI-001: [BUG] Login Performance UI
 
 **Severity:** Minor
 
