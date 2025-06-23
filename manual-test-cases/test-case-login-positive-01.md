@@ -21,5 +21,5 @@ User berada di halaman  produk dalam keadaan login
 
 | Login Data Valid | Login Success |
 |------------------|---------------|
-| ![Login data valid](../documentations/login-data-valid-01.png) | ![Login Success](../documentations/login-success-01.png) |
+| ![Login data valid](../documentations/TC-LG-001-Data.png) | ![Login Success](../documentations/TC-LG-001-Success.png) |
 

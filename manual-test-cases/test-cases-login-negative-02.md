@@ -17,3 +17,6 @@
 User tetap berada di halaman login
 
 **Attachment:**
+| Login Data Valid | Login Failed |
+|------------------|---------------|
+| ![Login data valid](../documentations/TC-LG-004-Data.png) | ![Login Success](../documentations/TC-LG-004-Failed.png) |

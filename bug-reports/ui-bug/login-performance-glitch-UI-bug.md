@@ -1,4 +1,4 @@
-# BG-LG-001: [BUG] Login Performance UI
+# BG-UI-001: [BUG] Login Performance UI
 
 **Severity:** Minor
 
@@ -15,6 +15,6 @@
 **Actual Result:** Berhasil masuk ke halaman produk dengan defect UI pada beberapa nama produk
 
 **Attachment:**
-| Login Data Valid | UI Defect |
+| Login Data Valid | UI Pruduct Defect |
 |------------------|------------------|
-|![Login valid](../documentations/login-data-valid-02.png)|![Login valid](../documentations/login-success-02.png)|
+|![Login valid](../../documentations/TC-LG-002-Data.png)|![Login valid](../../documentations/TC-LG-002-Success.png)|
