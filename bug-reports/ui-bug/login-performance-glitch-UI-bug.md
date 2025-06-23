@@ -15,6 +15,6 @@
 **Actual Result:** Berhasil masuk ke halaman produk dengan defect UI pada beberapa nama produk
 
 **Attachment:**
-| Login Data Valid | UI Pruduct Defect |
+| Login Data Valid | UI Product Defect |
 |------------------|------------------|
-|![Login valid](../../documentations/TC-LG-002-Data.png)|![Login valid](../../documentations/TC-LG-002-Success.png)|
+|![Login valid](../../documentations/TC-LG-002-Data.png)|![Login valid](../../documentations/TC-LG-002-Success.png) ![Login valid](../../documentations/Bug-UI-001.png)|
