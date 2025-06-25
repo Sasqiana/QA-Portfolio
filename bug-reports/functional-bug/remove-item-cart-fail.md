@@ -16,4 +16,5 @@
 
 **Attachment:**
 |Remove Button Not Working on Product Page|
+|-----------------------------------------|
 |![Remove Button](../../documentations/Bug-FC-001.png)|
