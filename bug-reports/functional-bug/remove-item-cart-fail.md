@@ -2,7 +2,7 @@
 
 **Severity:** Major
 
-**Environment:** OS Windows 10. Opera v119
+**Environment:** OS Windows 10, Opera v119
 
 **Steps to Reproduce:**
 1. Login menggunakan username: problem_user dan password: secret_sauce
@@ -15,3 +15,5 @@
 **Actual Result:** Tombol "Remove" tidak memberikan respon. Produk tidak terhapus dari cart dan jumlah item tetap.
 
 **Attachment:**
+|Remove Button Not Working on Product Page|
+|![Remove Button](../../documentations/Bug-FC-001.png)|
