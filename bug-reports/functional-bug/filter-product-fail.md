@@ -17,4 +17,4 @@
 **Attachment:**
 |Filter Product not Working|
 |--------------------------|
-|![filter](../../documentations/Bug-FC-002.png)|
+|![filter](../../documentations/Bug-FC-002-before.png)![filter](../../documentations/Bug-FC-002-after.png)|
