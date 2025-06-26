@@ -8,9 +8,9 @@
 1. Login dengan username: problem_user dan password: secret_sauce
 2. User masuk dan berada di halaman produk
 3. Klik tombol Filter di pojok kanan atas, di bawah tombol cart
-4. Ubah filter yang tersedia sesuai abjad atau harga
+4. Pilih salah satu filter (misalnya: sort by A-Z atau sort by Price low to high)
 
-**Expected Result:** Produk yang ditampilkan berubah sesuai filter yang dipilih
+**Expected Result:** Produk yang ditampilkan seharusnya berubah sesuai filter yang dipilih
 
 **Actual Result:** Tidak ada perubahan yang terjadi setelah menekan tombol filter yang dipilih
 
