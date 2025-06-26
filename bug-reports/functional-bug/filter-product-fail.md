@@ -15,6 +15,6 @@
 **Actual Result:** Tidak ada perubahan yang terjadi setelah menekan tombol filter yang dipilih
 
 **Attachment:**
-|Filter Product not Working|
-|--------------------------|
-|![filter](../../documentations/Bug-FC-002.png)|
+|Before|After|
+|--------------------------|--------------------------|
+|![filter](../../documentations/Bug-FC-002-before.png)|![filter](../../documentations/Bug-FC-002-after.png)|
