@@ -26,4 +26,4 @@ Gambar-gambar produk butuh ~482 ms masing-masing untuk dimuat (total ~2.4 detik 
 **Attachment:**
 |Evidence|
 |--------|
-|![performance](../../documentations/)|
+|![performance](../../documentations/BG-PR-001.png)|
