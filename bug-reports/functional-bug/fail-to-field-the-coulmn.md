@@ -19,4 +19,4 @@
 **Attachment:**
 |Di Halaman Cart| Di Halaman Checkout (before)| Di halaman Checkout (after)|
 |---------------|-----------------------------|----------------------------|
-|![cart](../../documentations/)|![checkout](../../documentations/BG-FC-003-before.png)|![cart](../../documentations/BG-FC-003-after.png)|
+|![cart](../../documentations/BG-FC-003-cart.png)|![checkout](../../documentations/BG-FC-003-before.png)|![cart](../../documentations/BG-FC-003-after.png)|
