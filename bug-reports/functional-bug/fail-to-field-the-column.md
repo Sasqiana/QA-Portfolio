@@ -8,13 +8,13 @@
 
 **Steps to Reproduce:**
 1. Berada di halaman cart yang berisi beberapa produk terpilih, klik "Checkout"
-2. berada di halaman checkout, isi data diri sebelum melanjutkan
+2. Berada di halaman checkout, isi data diri sebelum melanjutkan
 3. Isi data diri, yang terdiri dari: First Name, Last Name, dan Zip/Postal Code
 4. Setelah mengisi data diri lengkap, klik "Continue"
 
-**Expected Result:** User dapat mengisi dapat diri lengkap dan melanjutkan ke tahap pembayaran
+**Expected Result:** User dapat mengisi  diri lengkap dan melanjutkan ke tahap pembayaran
 
-**Actual Result:** Terdapat error pada kolom "Last Name" pada saat mengisi data diri di halaman Checkout, yang mengakibatkan tidak dapat melanjutkan ke proses pembayaran
+**Actual Result:** Terdapat error pada kolom "Last Name" pada saat mengisi data diri di halaman Checkout, yaitu kolom "Last Name" tidak terisi dan sistem otomatis mengisi kolom "First Name".  Ini mengakibatkan tidak dapat melanjutkan ke proses pembayaran
 
 **Attachment:**
 |Di Halaman Cart| Di Halaman Checkout (before)| Di halaman Checkout (after)|
