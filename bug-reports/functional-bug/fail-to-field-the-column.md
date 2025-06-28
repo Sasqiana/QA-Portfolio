@@ -1,10 +1,10 @@
-# BG-FC-003: Fail to Field the Column on Checkout Informations Page
+# BG-FC-003: Last Name Column Not Filled on Checkout Information Page
 
 **Severity:** Critical
 
 **Environment:** OS Windows 10, browser Opera v119
 
-**Pre-condition:** Berada di halaman cart & telah login dengan username: problem_user & password: secret_sauce
+**Pre-condition:** User sudah berada di halaman cart dan telah login menggunakan username: problem_user & password: secret_sauce
 
 **Steps to Reproduce:**
 1. Berada di halaman cart yang berisi beberapa produk terpilih, klik "Checkout"
@@ -14,7 +14,7 @@
 
 **Expected Result:** User dapat mengisi  diri lengkap dan melanjutkan ke tahap pembayaran
 
-**Actual Result:** Terdapat error pada kolom "Last Name" pada saat mengisi data diri di halaman Checkout, yaitu kolom "Last Name" tidak terisi dan sistem otomatis mengisi kolom "First Name".  Ini mengakibatkan tidak dapat melanjutkan ke proses pembayaran
+**Actual Result:** Terdapat error pada kolom "Last Name" pada saat mengisi data diri di halaman Checkout, yaitu kolom "Last Name" tidak terisi dan sistem otomatis mengisi kolom "First Name".  Hal ini menyebabkan user tidak bisa melanjutkan ke tahap pembayaran meskipun semua data seolah sudah diisi
 
 **Attachment:**
 |Di Halaman Cart| Di Halaman Checkout (before)| Di halaman Checkout (after)|
