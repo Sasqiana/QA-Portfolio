@@ -14,7 +14,7 @@
 Filter produk tidak berfungsi ketika user memilih kategori produk pada halaman Product Page. Produk tidak tersaring sesuai kategori yang dipilih.
 
 📎 Lihat bug report lengkap di sini:  
-[filter-product-fail.md](../../bug-reports/functional-bug/filter-product-fail.md)
+[filter-product-fail.md](../../../bug-reports/functional-bug/filter-product-fail.md)
 
 ---
 
