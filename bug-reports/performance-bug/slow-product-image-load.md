@@ -1,7 +1,9 @@
 # BG-PR-001: Product Image Loads Too Slowly Without Loading Indicator
 
 **Severity:** Minor  
+
 **Environment:** OS Windows 10, Opera v119  
+
 **Pre-condition:** User sudah login dan berada di halaman produk
 
 **Steps to Reproduce:**
