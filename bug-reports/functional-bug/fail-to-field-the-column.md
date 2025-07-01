@@ -4,7 +4,7 @@
 
 **Environment:** OS Windows 10, browser Opera v119
 
-**Pre-condition:** User sudah berada di halaman cart dan telah login menggunakan username: problem_user & password: secret_sauce
+**Pre-condition:** User telah login menggunakan username: problem_user dan berada di halaman cart
 
 **Steps to Reproduce:**
 1. Berada di halaman cart yang berisi beberapa produk terpilih, klik "Checkout"
