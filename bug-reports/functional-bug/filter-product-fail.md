@@ -10,7 +10,7 @@
 1. Klik tombol Filter produk di pojok kanan atas, tepat di bawah tombol cart
 2. Pilih salah satu filter (misalnya: sort by A-Z atau sort by Price low to high)
    
-**Expected Result:** Produk yang ditampilkan seharusnya berubah sesuai filter yang dipilih
+**Expected Result:** Produk yang ditampilkan diperbarui sesuai filter yang dipilih
 
 **Actual Result:** Tidak ada perubahan yang terjadi setelah menekan tombol filter yang dipilih
 
