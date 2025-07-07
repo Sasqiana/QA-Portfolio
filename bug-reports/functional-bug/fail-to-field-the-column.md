@@ -13,7 +13,7 @@
 
 **Expected Result:** User dapat mengisi  diri lengkap dan melanjutkan ke tahap pembayaran
 
-**Actual Result:** Terdapat error pada kolom "Last Name" pada saat mengisi data diri di halaman Checkout, yaitu kolom "Last Name" tidak terisi dan sistem otomatis mengisi kolom "First Name".  Hal ini menyebabkan user tidak bisa melanjutkan ke tahap pembayaran meskipun semua data seolah sudah diisi
+**Actual Result:** Terjadi error pada kolom **Last Name**. Sistem secara otomatis mengisi kolom **First Name** di posisi kolom Last Name, sehingga input Last Name kosong. Akibatnya, user tidak dapat melanjutkan ke tahap pembayaran meskipun tampak semua kolom telah diisi.
 
 **Attachment:**
 |Di Halaman Cart| Di Halaman Checkout (before)| Di halaman Checkout (after)|
