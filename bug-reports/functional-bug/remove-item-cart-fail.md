@@ -4,11 +4,11 @@
 
 **Environment:** OS Windows 10, Opera v119
 
+**Pre-condition:** User telah login menggunakan username: problem_user dan berada di halaman produk
+
 **Steps to Reproduce:**
-1. Login menggunakan username: problem_user dan password: secret_sauce
-2. Berhasil masuk ke halaman produk
-3. Tambahkan satu atau beberapa item ke cart
-4. Klik "Remove" pada item yang ingin dihapus 
+1. Tambahkan satu atau beberapa item ke cart
+2. Klik "Remove" pada item yang ingin dihapus 
    
 **Expected Result:** Produk dihapus dari cart dan ikon jumlah item di cart (pojok kanan atas) berkurang sesuai jumlah yang dihapus.
 
