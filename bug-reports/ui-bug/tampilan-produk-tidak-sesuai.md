@@ -17,4 +17,4 @@
 **Attachment:** 
 |Tampilan Produk Tidak Sesuai|
 |----------------------------|
-|![gambar produk](../../../documentations/Bug-UI-002.png)|
+|![gambar produk](../../documentations/Bug-UI-002.png)|
