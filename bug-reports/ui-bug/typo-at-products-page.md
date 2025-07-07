@@ -13,3 +13,6 @@
 **Actual Result:** Terdapat kesalahan penulisan pada nama dan deskripsi produk
 
 **Attachment:** 
+|Typo|Typo|
+|----|----|
+|![typo-a](../../documentations/Bug-UI-003a.png)|![typo-b](../../documentations/Bug-UI-003b.png)|
