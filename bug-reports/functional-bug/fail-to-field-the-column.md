@@ -2,7 +2,7 @@
 
 **Severity:** Critical
 
-**Environment:** OS Windows 10, browser Opera v119
+**Environment:** OS Windows 10, Browser Opera v119
 
 **Pre-condition:** User telah login menggunakan username: `problem_user` dan berada di halaman cart
 
