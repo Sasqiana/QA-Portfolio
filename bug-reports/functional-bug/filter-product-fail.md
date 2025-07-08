@@ -7,7 +7,7 @@
 **Pre-condition:** User telah login dengan username: problem_user dan berada di halaman produk
 
 **Steps to Reproduce:**
-1. Klik tombol Filter produk di pojok kanan atas, tepat di bawah tombol cart
+1. Klik tombol **Filter** produk di pojok kanan atas, tepat di bawah tombol **Cart**
 2. Pilih salah satu filter (misalnya: sort by A-Z atau sort by Price low to high)
    
 **Expected Result:** Produk yang ditampilkan diperbarui sesuai filter yang dipilih
