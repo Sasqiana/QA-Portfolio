@@ -5,6 +5,7 @@
 **Environment:** OS Windows 10, Browser Opera v119
 
 **Pre-condition:** User berada di halaman login
+
 **Steps to Reproduce:**
 1. Input username valid: performance_glitch_user
 2. Input password: secret_sauce
