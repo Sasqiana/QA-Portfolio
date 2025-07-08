@@ -4,7 +4,7 @@
 
 **Environment:** OS Windows 10, Browser Opera v119
 
-**Pre-condition:** User sudah login dengan username: problem_user dan berada di halaman produk
+**Pre-condition:** User telah login dengan username: problem_user dan berada di halaman produk
 
 **Steps to Reproduce:**
 1. Klik tombol Filter produk di pojok kanan atas, tepat di bawah tombol cart
