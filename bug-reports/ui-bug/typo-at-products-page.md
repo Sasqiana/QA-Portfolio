@@ -5,7 +5,7 @@
 **Environment:** OS Windows 10, Opera v119
 
 **Steps to Reproduce:**
-1. Login menggunakan username: problem_user dan password: secret_sauce
+1. Login menggunakan username: `problem_user` dan password: `secret_sauce`
 2. Berhasil masuk ke halaman produk
 
 **Expected Result:** Semua nama dan deksripsi pada produk sesuai serta tidak ada kesalahan penulisan
