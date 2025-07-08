@@ -4,12 +4,11 @@
 
 **Environment:** OS Windows 10, Opera v119  
 
-**Pre-condition:** User sudah login dan berada di halaman produk
+**Pre-condition:** Berada di halaman login menggunakan username: `performance_glitch_user` 
 
 **Steps to Reproduce:**
-1. Login menggunakan akun: performace_glitch_user & password: secret_sauce
-2. Setelah berhasil login, user diarahkan ke halaman produk
-3. Amati waktu munculnya gambar-gambar produk
+1. Setelah berhasil login, user diarahkan ke halaman produk
+2. Amati waktu munculnya gambar-gambar produk
 
 **Expected Result:**  
 Semua gambar produk ditampilkan dalam waktu <1 detik, atau sistem menampilkan indikator loading saat gambar belum siap
