@@ -1,7 +1,7 @@
-# Jira Ticket: [BUG] Product Image Loads Too Slowly Without Loading Indicator
+# Jira Ticket: [BUG]  Last Name Column Not Filed on Checkout Information Page
 
-**Ticket ID:** SQT-2
-**Status:** In Progress 
+**Ticket ID:** SQT-3
+**Status:** Done
 **Issue Type:** Bug  
 **Project:** SauceDemo Bug Tracking  
 **Created by:** Sasqiana  
@@ -11,13 +11,13 @@
 
 ## Bug Description
 
-Gambar-gambar produk butuh ~482 ms masing-masing untuk dimuat (total ~2.4 detik untuk semua gambar), dan halaman tampak kosong beberapa saat tanpa loading indicator.
+Terjadi error pada kolom Last Name. Sistem secara otomatis mengisi kolom First Name di posisi kolom Last Name, sehingga input Last Name kosong. Akibatnya, user tidak dapat melanjutkan ke tahap pembayaran meskipun tampak semua kolom telah diisi.
 
 📎 Lihat bug report lengkap di sini:  
-[BG-UI-002: [BUG] Typo pada Nama dan Deskripsi Produk](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/ui-bug/typo-at-products-page.md)
+[BG-FC-001: [BUG] Last Name Column Not Filed on Checkout Information Page](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/ui-bug/typo-at-products-page.md)
 
 ---
 
 ## Jira Board View
 
-![Jira SQT-1](../documentations/Jira-Bug-Performance.png)
+![Jira SQT-3](../documentations/Jira-Bug-Functional.png)
