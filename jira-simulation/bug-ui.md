@@ -14,7 +14,7 @@
 Terdapat kesalahan penulisan pada nama dan deskripsi produk
 
 📎 Lihat bug report lengkap di sini:  
-[Typo Pada Nama dan Deskripsi Produk](../bug-reports/ui/typo-at-products-page.md)
+[Typo Pada Nama dan Deskripsi Produk](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/ui-bug/typo-at-products-page.md)
 
 ---
 
