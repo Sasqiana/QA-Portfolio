@@ -19,5 +19,5 @@ Terdapat kesalahan penulisan pada nama dan deskripsi produk
 ---
 
 ## 📷 Screenshot (Jira Board View)
-
-![Jira SQT-1](../../../documentations/Jira-Bug-UI.png)
+![cart](../../documentations/BG-FC-003-cart.png)
+![Jira SQT-1](../../documentations/Jira-Bug-UI.png)
