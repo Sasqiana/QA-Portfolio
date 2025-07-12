@@ -14,6 +14,7 @@
 Terjadi error pada kolom Last Name. Sistem secara otomatis mengisi kolom First Name di posisi kolom Last Name, sehingga input Last Name kosong. Akibatnya, user tidak dapat melanjutkan ke tahap pembayaran meskipun tampak semua kolom telah diisi.
 
 📎 Lihat bug report lengkap di sini:  
+
 [BG-FC-001: [BUG] Last Name Column Not Filed on Checkout Information Page](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/functional-bug/fail-to-field-the-column.md)
 ---
 
