@@ -30,7 +30,7 @@ Gambar-gambar produk butuh ~482 ms masing-masing untuk dimuat (total ~2.4 detik 
 Gambar-gambar produk butuh ~482 ms masing-masing untuk dimuat (total ~2.4 detik untuk semua gambar), dan halaman tampak kosong beberapa saat tanpa loading indicator.
 
 📎 Lihat bug report lengkap di sini:  
-[BG-PR-001: Product Image Loads Too Slowly Without Loading Indicator](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/ui-bug/typo-at-products-page.md)
+[BG-PR-001: Product Image Loads Too Slowly Without Loading Indicator](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/performance-bug/slow-product-image-load.md)
 
 ---
 
