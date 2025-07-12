@@ -15,7 +15,7 @@ Terjadi error pada kolom Last Name. Sistem secara otomatis mengisi kolom First N
 
 Lihat bug report lengkap di sini:  
 
-[BG-FC-001: [BUG] Last Name Column Not Filed on Checkout Information Page](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/functional-bug/fail-to-field-the-column.md)
+[BG-FC-003: [BUG] Last Name Column Not Filed on Checkout Information Page](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/functional-bug/fail-to-field-the-column.md)
 
 ---
 
