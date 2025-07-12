@@ -20,4 +20,4 @@ Terdapat kesalahan penulisan pada nama dan deskripsi produk
 
 ## 📷 Screenshot (Jira Board View)
 
-![Jira SQT-1](../../documentations/Jira-Bug-UI.png)
+![Jira SQT-1](../../../documentations/Jira-Bug-UI.png)
