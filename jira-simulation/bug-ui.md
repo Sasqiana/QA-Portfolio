@@ -14,10 +14,10 @@
 Terdapat kesalahan penulisan pada nama dan deskripsi produk
 
 📎 Lihat bug report lengkap di sini:  
-[nama folder bug di github](../../bug-reports/ui/typo-at-products-page.md)
+[BG-UI-002: [BUG] Typo pada Nama dan Deskripsi Produk](https://github.com/Sasqiana/QA-Portfolio/blob/main/bug-reports/ui-bug/typo-at-products-page.md)
 
 ---
 
-## 📷 Screenshot (Jira Board View)
+## Jira Board View
 
-![Jira SQT-1](../../documentations/jira-SQT-01.png)
+![Jira SQT-1](../documentations/Jira-Bug-UI.png)
