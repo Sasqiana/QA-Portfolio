@@ -2,19 +2,18 @@
 
 **Severity:** Critical
 
-**Environment:** OS Windows 10, browser Opera v119
+**Environment:** OS Windows 10, Browser Opera v119
 
-**Pre-condition:** User telah login menggunakan username: problem_user dan berada di halaman cart
+**Pre-condition:** User telah login menggunakan username: `problem_user` dan berada di halaman cart
 
 **Steps to Reproduce:**
-1. Berada di halaman cart yang berisi beberapa produk terpilih, klik "Checkout"
-2. Berada di halaman checkout, isi data diri sebelum melanjutkan
-3. Isi data diri, yang terdiri dari: First Name, Last Name, dan Zip/Postal Code
-4. Setelah mengisi data diri lengkap, klik "Continue"
+1. Klik tombol **Checkout** setelah memilih produk yang akan dibeli
+2. Isi form data diri yang terdiri dari: First Name, Last Name, dan Zip/Postal Code
+3. Klik tombol **Continue** untuk melanjutkan proses checkout
 
 **Expected Result:** User dapat mengisi  diri lengkap dan melanjutkan ke tahap pembayaran
 
-**Actual Result:** Terdapat error pada kolom "Last Name" pada saat mengisi data diri di halaman Checkout, yaitu kolom "Last Name" tidak terisi dan sistem otomatis mengisi kolom "First Name".  Hal ini menyebabkan user tidak bisa melanjutkan ke tahap pembayaran meskipun semua data seolah sudah diisi
+**Actual Result:** Terjadi error pada kolom **Last Name**. Sistem secara otomatis mengisi kolom **First Name** di posisi kolom Last Name, sehingga input Last Name kosong. Akibatnya, user tidak dapat melanjutkan ke tahap pembayaran meskipun tampak semua kolom telah diisi.
 
 **Attachment:**
 |Di Halaman Cart| Di Halaman Checkout (before)| Di halaman Checkout (after)|
