@@ -90,5 +90,5 @@ Tempat mengupload bukti visual seperti screenshot, video, atau dokumen pendukung
 ---
 
 📌 **Catatan**  
-File ini disusun sebagai dokumentasi istilah penting dalam penggunaan Jira untuk mendukung pemahaman dalam pembuatan bug report dan simulasi QA. Disusun dari hasil praktik langsung menggunakan Jira Free Plan.
+File ini disusun sebagai dokumentasi istilah penting dalam penggunaan Jira untuk mendukung pemahaman dalam pembuatan bug report dan simulasi QA. Disusun dari hasil praktik langsung menggunakan Jira.
 
