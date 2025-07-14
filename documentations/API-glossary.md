@@ -41,13 +41,24 @@ Informasi tambahan dalam request, seperti format data (`Content-Type`) atau toke
 ### 8. Body
 Data yang dikirim dalam request, terutama pada method POST/PUT.
 Format umum: JSON.
-
+> Contoh:
+```json
+{
+  "title": "Product A",
+  "price": 150
+}
+```
 ### 9. Collection
 Kumpulan request API yang dikelompokkan dalam satu file Postman.
 
 ### 10. Test Script (Tests tab)
 Kode untuk memverifikasi response API secara otomatis menggunakan JavaScript.
-
+> Contoh:
+```js
+pm.test("Status code is 200", function () {
+  pm.response.to.have.status(200);
+});
+```
 ### 11. Environment
 Tempat menyimpan variabel global seperti URL dasar (`base_url`) atau token.
 
