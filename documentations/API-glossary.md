@@ -67,6 +67,6 @@ Pengaturan akses ke API, seperti Bearer Token, API Key, Basic Auth, dll.
 
 ---
 > Notes:
-
-File ini disusun sebagai dokumentasi istilah penting dalam API testing untuk mendukung pemahaman dalam portfolio QA. Disusun dari hasil belajar mandiri dan praktik langsung di Postman.
+>
+> File ini disusun sebagai dokumentasi istilah penting dalam API testing untuk mendukung pemahaman dalam portfolio QA. Disusun dari hasil belajar mandiri dan praktik langsung di Postman.
 
