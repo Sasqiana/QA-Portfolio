@@ -25,8 +25,8 @@
 
 ```
 **Actual Result:**
--Status Code: `401 Unauthorized`
--Response Body:
+- Status Code: `401 Unauthorized`
+- Response Body:
 ```json
 {
   "message": "Invalid Credentials"
