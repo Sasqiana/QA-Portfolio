@@ -12,5 +12,25 @@
 }
 
 ```
+
+**Expected Result:**
+-Status Code: `200 OK`
+-Response Body:
+```json
+
+  "id": 15
+  "username": "kminchelle",
+  "email": "kminchelle@example.com",
+  "token": "..."
+
+```
+**Actual Result:**
+-Status Code: `401 Unauthorized`
+-Response Body:
+```json
+{
+  "message": "Invalid Credentials"
+}
+```
 **Attachment:**
 ![API login](../documentations/)
