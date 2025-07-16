@@ -35,4 +35,4 @@
 **Functional Bug**: login tidak bisa dijalankan karena flow tidak logis
 
 **Attachment:**
-![API login](../documentations/)
+![API login](../documentations/TC-API-001.png)
