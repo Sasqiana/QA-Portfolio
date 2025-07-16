@@ -14,5 +14,5 @@
 - Response sesuai ekspektasi
 
 **Attachment:**
-![Get Products](../documentations/TC-API-001.png)
+![Get Products](../documentations/TC-API-002.png)
 
