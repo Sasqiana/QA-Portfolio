@@ -1,6 +1,7 @@
-# TC-API-001 – Get All Products (GET)
+# TC-API-002: Get All Products (GET)
 
-**Endpoint:** `https://dummyjson.com/products`  
+**Endpoint:** `https://dummyjson.com/products`
+
 **Method:** GET
 
 **Expected Result:**
