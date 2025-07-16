@@ -29,8 +29,10 @@
 - Response Body:
 ```json
 {
-  "message": "Invalid Credentials"
+  "message": "Access Token is required"
 }
 ```
+**Functional Bug**: login tidak bisa dijalankan karena flow tidak logis
+
 **Attachment:**
 ![API login](../documentations/)
