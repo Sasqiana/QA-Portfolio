@@ -14,8 +14,8 @@
 ```
 
 **Expected Result:**
--Status Code: `200 OK`
--Response Body:
+- Status Code: `200 OK`
+- Response Body:
 ```json
 
   "id": 15
