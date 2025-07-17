@@ -20,11 +20,11 @@
 ```
 
 **Expected Result:**
-- Status Code: `200 OK`
+- Status Code: `201 Created`
 - Response Body: Data yang berhasil ditambahkan dalam format raw json
 
 **Actual Result:**
-
-**Result:**
-
+- Passed, as expected data berhasil ditambahkan dan status code sesuai yaitu `201 Created`
+  
 **Attachment:**
+![Add new data](../documentations/)
