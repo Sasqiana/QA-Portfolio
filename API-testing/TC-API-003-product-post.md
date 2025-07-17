@@ -27,4 +27,4 @@
 - Passed, as expected data berhasil ditambahkan dan status code sesuai yaitu `201 Created`
   
 **Attachment:**
-![Add new data](../documentations/)
+![Add new data](../documentations/TC-API-003.png)
