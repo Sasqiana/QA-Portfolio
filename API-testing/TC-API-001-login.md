@@ -32,9 +32,11 @@
   "message": "Access Token is required"
 }
 ```
-**Result:** Failed, login tidak bisa dijalankan karena flow tidak logis
+**Result:** 
+Failed, login tidak bisa dijalankan karena flow tidak logis
 
-**Issue:** [BUG] Berdasarkan actual result, ditemukan flow yang tidak logis: sistem meminta access token saat proses login, padahal seharusnya token diberikan setelah login berhasil. Hal ini menyebabkan user tidak dapat mengakses akun meskipun menggunakan kredensial yang valid.
+**Issue:** 
+[BUG] Berdasarkan actual result, ditemukan flow yang tidak logis: sistem meminta access token saat proses login, padahal seharusnya token diberikan setelah login berhasil. Hal ini menyebabkan user tidak dapat mengakses akun meskipun menggunakan kredensial yang valid.
 
 **Attachment:**
 ![API login](../documentations/TC-API-001.png)
