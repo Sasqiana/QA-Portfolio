@@ -22,6 +22,6 @@
 - Passed, as expected data berhasil di-update dan status code sesuai yaitu `200 Ok`
   
 **Attachment:**
-![Add new data](../documentations/TC-API-004.png)
+![update data](../documentations/TC-API-004.png)
 
 
