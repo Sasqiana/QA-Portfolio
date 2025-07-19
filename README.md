@@ -1,4 +1,4 @@
-# 🧪 QA Portfolio - Sasqiana 
+# QA Portfolio - Sasqiana 
 
 Portfolio ini berisi simulasi pengujian dari dua sumber aplikasi:
 
@@ -13,27 +13,27 @@ Portfolio ini dirancang untuk menampilkan keterampilan dasar saya sebagai QA Man
 
 ---
 
-## 🗂️ Struktur Folder
+## Struktur Folder
 - API-testing/ → Test case API pakai DummyJSON
 - bug-reports/ → Berisi sub folder Functional bug, Performace bug, dan UI bug
-- documentations/ → Screenshot Jira, bug, testing, dan glossary jira & postman
+- documentations/ → Screenshot: Jira, bug, testing, & Glossary: jira, postman, qase.io
 - jira-simulation/ → Jira ticket simulasi dari SauceDemo
 - manual-test-cases/ → Test case dari UI SauceDemo
   
 ---
 
-## 🛠️ Tools yang Digunakan
+## Tools yang Digunakan
 - **Postman** → Untuk pengujian API
-- **Jira (Free Public Project)** → Untuk simulasi pelaporan bug & task
+- **Jira** → Untuk simulasi pelaporan bug & task
 - **Qase.io** → Untuk mendokumentasikan dan menjalankan test case
 - **GitHub** → Sebagai tempat publikasi portfolio
 
 ---
 
-## 🎯 Tujuan portfolio
+## Tujuan portfolio
 Menunjukkan pemahaman saya terhadap proses QA dari sisi praktikal, termasuk:
 - Menulis test case positif dan negatif
 - Mendokumentasikan test case dalam tools QA (Qase.io)
 - Menjalankan test case dan menganalisis hasilnya
 - Melaporkan bug lengkap langsung ke Jira
-- Memahami alur komunikasi antar sistem melalui API
+- Memahami alur komunikasi antar sistem melalui API (Postman)
