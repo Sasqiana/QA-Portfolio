@@ -14,12 +14,12 @@ Portfolio ini dirancang untuk menampilkan keterampilan dasar saya sebagai QA Man
 ---
 
 ## 🗂️ Struktur Folder
-- manual-test-cases/ → Test case dari UI SauceDemo
+- API-testing/ → Test case API pakai DummyJSON
 - bug-reports/ → Berisi sub folder Functional bug, Performace bug, dan UI bug
+- documentations/ → Screenshot Jira, bug, testing, dan glossary jira & postman
 - jira-simulation/ → Jira ticket simulasi dari SauceDemo
-- api-testing/ → Test case API pakai DummyJSON
-- screenshots/ → Screenshot Jira, bug, testing
-
+- manual-test-cases/ → Test case dari UI SauceDemo
+  
 ---
 
 ## 🛠️ Tools yang Digunakan
