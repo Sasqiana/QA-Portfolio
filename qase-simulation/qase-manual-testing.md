@@ -13,7 +13,7 @@
 | Test Case ID     | Title                                | Result  | Notes                          |
 |------------------|--------------------------------------|---------|--------------------------------|
 | TC-LG-001-POS    | Login with valid credentials         | ✅ Pass | Login berhasil                 |
-| TC-LG-002-POS    | Login with another valid account     | ✅ Pass | Login berhasil                 |
+| TC-LG-002-POS    | Login with another valid account     | ✅ Pass | Login berhasil dengan glitch UI|
 | TC-LG-003-NEG    | Login with empty username & password | ✅ Pass | Validasi error muncul          |
 | TC-LG-004-NEG    | Login with locked out user           | ✅ Pass | Muncul pesan locked out user   |
 
@@ -21,7 +21,7 @@
 
 ## Screenshot Test Run Result
 
-![Test Run Result](../documentations/qase-test-run-result.png)
+![Test Run Result](../documentations/Qase-Manual-Test-001.png)
 
 ---
 
