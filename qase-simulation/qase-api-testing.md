@@ -1,10 +1,10 @@
 # Qase Test Run Log – API Testing (DummyJSON)
 
-**Project**: QA Portfolio – DummyJSON API  
-**Module**: API-testing  
-**Test Run Title**: API Testing Run - DummyJSON  
-**Tester**: Sasqiana
-**Executed on**: 26 Juli 2025 
+**Project Name:** SauceDemo QA Project  
+**Test Suite:** API-Testing 
+**Test Run Name:** API Testing Run  
+**Tester:** Sasqiana  
+**Date:** 26 July 2025
 
 ---
 
