@@ -2,8 +2,8 @@
 
 **Project Name:** SauceDemo QA Project  
 **Test Suite:** API-Testing 
-**Test Run Name:** API Testing Run
-**Tester:** Sasqiana  
+**Test Run Name:** API Testing Run        
+**Tester:** Sasqiana        
 **Date:** 26 July 2025
 
 ---
