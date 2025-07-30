@@ -11,16 +11,18 @@ Portfolio ini dibuat untuk menampilkan keterampilan dasar saya sebagai **QA Manu
 - Mencatat hasil pengujian dan menemukan bug
 - Melaporkan bug secara sistematis di Jira
 - Melakukan API testing menggunakan Postman
+- Membuat manual test case di Qase.io
 
 ---
 
 ## Struktur Folder
 
-- `API-testing/` → Test case API dari DummyJSON  
+- `API-testing/` → Test case API dari DummyJSON menggunakan Postman
 - `bug-reports/` → Subfolder: Functional, Performance, dan UI bugs  
 - `documentations/` → Berisi screenshot (Jira, bug, testing) & file glossary tools (Jira, Postman, Qase)  
 - `jira-simulation/` → Simulasi pelaporan bug menggunakan Jira  
-- `manual-test-cases/` → Test case manual dari SauceDemo  
+- `manual-test-cases/` → Test case manual dari SauceDemo
+- `qase-simulation/` → Simulasi dokumentasi dan eksekusi test case di Qase.io
 
 ---
 
@@ -28,7 +30,7 @@ Portfolio ini dibuat untuk menampilkan keterampilan dasar saya sebagai **QA Manu
 
 - **Postman** → Untuk pengujian API  
 - **Jira** → Untuk simulasi pelaporan bug dan task  
-- **Qase.io** → Untuk dokumentasi dan eksekusi test case  
+- **Qase.io** → Untuk simulasi dokumentasi dan eksekusi test case  
 - **GitHub** → Untuk menyimpan dan menampilkan portfolio ini secara online  
 
 ---
@@ -41,3 +43,4 @@ Portfolio ini bertujuan untuk menunjukkan pemahaman saya dalam proses Quality As
 - Mencatat hasil uji dan menemukan bug
 - Melaporkan bug ke dalam sistem seperti Jira
 - Memahami dasar komunikasi API lewat pengujian di Postman
+- Mendokumentasikan dan eksekusi test case dalam sistem Qase.io
