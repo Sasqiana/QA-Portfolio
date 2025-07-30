@@ -32,11 +32,13 @@
   "message": "Access Token is required"
 }
 ```
-**Result:** 
-Failed, login tidak bisa dijalankan karena flow tidak logis
+- Dari sisi teknis:
+Endpoint /auth/login menolak request karena meminta token terlebih dahulu, padahal seharusnya login adalah proses awal untuk mendapatkan token, bukan sebaliknya.
 
-**Issue:** 
-[BUG] Berdasarkan actual result, ditemukan flow yang tidak logis: sistem meminta access token saat proses login, padahal seharusnya token diberikan setelah login berhasil. Hal ini menyebabkan user tidak dapat mengakses akun meskipun menggunakan kredensial yang valid.
+- Dari sisi pengguna:
+Pengguna tidak dapat melakukan login meskipun telah mengisi username dan password dengan benar. Hal ini menyebabkan fungsi login gagal sepenuhnya, dan dapat dianggap sebagai bug fungsional yang menghambat akses user ke sistem.
+
+---
 
 **Attachment:**
 ![API login](../documentations/TC-API-001.png)
