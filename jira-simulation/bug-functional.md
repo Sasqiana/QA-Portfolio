@@ -1,8 +1,8 @@
 # Jira Ticket: [BUG]  Last Name Column Not Filed on Checkout Information Page
 
-**Ticket ID:** SQT-3
-**Status:** Done
-**Issue Type:** Bug  
+**Ticket ID:** SQT-3    
+**Status:** Done      
+**Issue Type:** Bug          
 **Project:** SauceDemo Bug Tracking  
 **Created by:** Sasqiana  
 **Created on:** [12 Juli 2025]
