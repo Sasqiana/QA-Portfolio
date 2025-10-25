@@ -18,6 +18,7 @@ Portfolio ini dibuat untuk menampilkan keterampilan dasar saya sebagai **QA Manu
 ## Struktur Folder
 
 - `API-testing/` → Test case API dari DummyJSON menggunakan Postman
+- `automation/` → Berisi script python Selenium beserta dokumentasinya
 - `bug-reports/` → Subfolder: Functional, Performance, dan UI bugs  
 - `documentations/` → Berisi screenshot (Jira, bug, testing) & file glossary tools (Jira, Postman, Qase)  
 - `jira-simulation/` → Simulasi pelaporan bug menggunakan Jira  
